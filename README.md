@@ -1,6 +1,5 @@
 - ## transparent-window
 	- A utility that makes the window transparent, arrange and more. It works on Windows 10.
-	-
 - ### :crossed_swords:Functions
 	-
 
@@ -20,10 +19,10 @@
 	  | `alt-mouse wheel down` | Make active window gradually transparent |
 	  | `alt-mouse wheel up` | Make active window gradually opacity |
 	  | `alt-mouse right click-drag` | Drag active window |
-	- ![transparent-window.png](../assets/transparent-window_1649431026416_0.png){:height 234, :width 539}
+	- ![transparent-window.png](./assets/transparent-window_1649431026416_0.png){:height 234, :width 539}
 - ### :film_projector:Demo
-  ![demo.gif](../assets/demo_1649474679659_0.gif)
-- ### ??Download
+  ![demo.gif](./assets/demo_1649474679659_0.gif)
+- ### :comet: Download
 	- Download [transparent-window](https://drive.google.com/file/d/1J5QwmDXwjVrVZRobHoPQe_ZNrlyiFMYM/view?usp=sharing).
 - ### :sparkling_heart: Buy me a coffee 
     
