@@ -17,6 +17,7 @@
 	  | `alt-mouse wheel down` | Make active window gradually transparent |
 	  | `alt-mouse wheel up` | Make active window gradually opacity |
 	  | `alt-mouse right click-drag` | Drag active window |
+	  | `printscreen` | Capture screenshot then paste to mspaint |
 	- ![transparent-window.png](./assets/transparent-window_1649431026416_0.png)
 - ### :film_projector:Demo
   ![demo.gif](./assets/demo_1649474679659_0.gif)

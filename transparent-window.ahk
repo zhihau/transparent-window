@@ -1,6 +1,14 @@
 ﻿;Global variable
 ToolTipText = Text
 
+; print screen pastes into MS Paint
+~Printscreen::
+Run Mspaint
+WinWaitActive, Untitled - Paint
+{
+   Send ^v
+}
+
 ; Press alt-d. Minimizes all windows
 !d::  
     WinMinimizeAll
